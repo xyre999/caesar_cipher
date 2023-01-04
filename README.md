@@ -12,4 +12,4 @@ In modern times, the Caesar cipher isn’t very sophisticated, but that
 makes it ideal for beginners. The program in Project 7, “Caesar Hacker,” 
 can brute-force through all 26 possible keys to decrypt messages, even if 
 you don’t know the original key. Also, if you encrypt the message with the 
-key 13, the Caesar cipher becomes identical to Project 61, “ROT 13 Cipher.”
+key 13, the Caesar cipher becomes identical to “ROT 13 Cipher.”
